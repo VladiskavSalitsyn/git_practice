@@ -2,8 +2,10 @@ public class Main {
     public static void main(String[] args) {
         int a = 3;
         int b = 4;
+        boolean r = a > b;
+
+        }
     }
-}
 /* предварительно создал Git репозиторий на Удаленном сервере GitHub
 (https://github.com/VladiskavSalitsyn/git_practice.git)
 */
