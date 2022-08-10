@@ -4,12 +4,10 @@ public class Main {
         int b = 4;
         boolean r = a > b;
 
-        if (r) {
-
-        }
-
-        }
+        String rest = (r == true) ? "a" : "b";
+        System.out.printf(rest);
     }
+}
 /* предварительно создал Git репозиторий на Удаленном сервере GitHub
 (https://github.com/VladiskavSalitsyn/git_practice.git)
 */
