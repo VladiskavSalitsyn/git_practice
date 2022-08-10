@@ -4,6 +4,10 @@ public class Main {
         int b = 4;
         boolean r = a > b;
 
+        if (r) {
+
+        }
+
         }
     }
 /* предварительно создал Git репозиторий на Удаленном сервере GitHub
